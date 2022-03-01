@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="canberra_is_the_capital_of_astralia">Canberra is the capital of Astralia</string>
+    <string name="incorrect">incorrect</string>
+</resources>
